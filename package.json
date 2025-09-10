@@ -2,7 +2,7 @@
   "name": "odin-knights-travails",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/KnightGraph.js",
   "scripts": {
     "build": "tsc"
   },
